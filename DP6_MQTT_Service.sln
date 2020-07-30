@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorLogics", "SensorLogics\SensorLogics.csproj", "{34304D68-3D72-4622-9868-D734EAD9843B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTT_Service", "MQTT_Service\MQTT_Service.csproj", "{AE0F533E-8628-49BB-A680-D455C3E32401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34304D68-3D72-4622-9868-D734EAD9843B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34304D68-3D72-4622-9868-D734EAD9843B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34304D68-3D72-4622-9868-D734EAD9843B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34304D68-3D72-4622-9868-D734EAD9843B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE0F533E-8628-49BB-A680-D455C3E32401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0F533E-8628-49BB-A680-D455C3E32401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0F533E-8628-49BB-A680-D455C3E32401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0F533E-8628-49BB-A680-D455C3E32401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEDDCAEC-0658-410B-832B-167DE9ED3F1D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\SensorLogics.dll.config
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\SensorLogics.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\SensorLogics.pdb
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\Dapper.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\EntityFramework.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\MQTTnet.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\Newtonsoft.Json.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\Dapper.xml
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\EntityFramework.xml
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Release\Newtonsoft.Json.xml
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\obj\Release\SensorLogics.csproj.CopyComplete
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\obj\Release\SensorLogics.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\obj\Release\SensorLogics.pdb
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\obj\Release\SensorLogics.csprojAssemblyReference.cache

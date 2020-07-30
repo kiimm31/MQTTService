@@ -1,0 +1,66 @@
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\SensorLogics.dll
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\SensorLogics.pdb
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.csprojAssemblyReference.cache
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.csproj.CoreCompileInputs.cache
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.dll
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.pdb
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\SensorLogics.dll.config
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\Dapper.dll
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.dll
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\MQTTnet.dll
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\Dapper.xml
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.xml
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KimHung\Desktop\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.csproj.CopyComplete
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\SensorLogics.dll.config
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\SensorLogics.dll
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\SensorLogics.pdb
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\Dapper.dll
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.dll
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\MQTTnet.dll
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\Dapper.xml
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.xml
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.csprojAssemblyReference.cache
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.csproj.CoreCompileInputs.cache
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.csproj.CopyComplete
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.dll
+C:\Users\Arcstone\Desktop\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.pdb
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\SensorLogics.dll.config
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\SensorLogics.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\SensorLogics.pdb
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\Dapper.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\MQTTnet.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\Dapper.xml
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.xml
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.csproj.CopyComplete
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.dll
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.pdb
+C:\Users\Arcstone\Documents\Project\DP6 - Dynaplast\DP6MQTTSensorApp\SensorLogics\obj\Debug\SensorLogics.csprojAssemblyReference.cache
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\SensorLogics.dll.config
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\SensorLogics.dll
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\SensorLogics.pdb
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\Dapper.dll
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\EntityFramework.dll
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\MQTTnet.dll
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\Dapper.xml
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\EntityFramework.xml
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\obj\Debug\SensorLogics.csprojAssemblyReference.cache
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\obj\Debug\SensorLogics.csproj.CopyComplete
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\obj\Debug\SensorLogics.dll
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\SensorLogics\obj\Debug\SensorLogics.pdb

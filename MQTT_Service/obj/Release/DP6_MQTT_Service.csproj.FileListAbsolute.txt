@@ -1,0 +1,15 @@
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\bin\Release\DP6_MQTT_Service.exe.config
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\bin\Release\DP6_MQTT_Service.exe
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\bin\Release\DP6_MQTT_Service.pdb
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\bin\Release\SensorLogics.dll
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\bin\Release\MQTTnet.dll
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\bin\Release\Dapper.dll
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\bin\Release\SensorLogics.pdb
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\bin\Release\SensorLogics.dll.config
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\bin\Release\Dapper.xml
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\obj\Release\DP6_MQTT_Service.csprojAssemblyReference.cache
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\obj\Release\DP6_MQTT_Service.ProjectInstaller.resources
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\obj\Release\DP6_MQTT_Service.csproj.GenerateResource.cache
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\obj\Release\DP6_MQTT_Service.csproj.CopyComplete
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\obj\Release\DP6_MQTT_Service.exe
+C:\Users\Arcstone\source\repos\DP6_MQTT_Service\DP6_MQTT_Service\obj\Release\DP6_MQTT_Service.pdb
